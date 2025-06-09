@@ -4,6 +4,8 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using SGE.Infrastructure.Data;
 using System.Text;
+using SGE.Application.Auth.Interfaces;
+using SGE.Application.Auth.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -75,6 +77,8 @@ builder.Services.AddSwaggerGen(options =>
 
     options.AddSecurityRequirement(securityRequirement);
 });
+
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
 

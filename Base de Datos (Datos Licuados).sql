@@ -51,6 +51,14 @@ INSERT INTO empleado (
   '0988123456', 'Calle Norte 789', '1988-06-15', 'Masculino'
 );
 
+-- Insertar roles base del sistema
+INSERT INTO roles (nombre, descripcion) VALUES
+('Admin', 'Administrador del sistema con todos los permisos'),
+('Gerente Comercial', 'Visualiza y gestiona toda la información del área comercial'),
+('Líder de Ventas', 'Gestiona y supervisa a los ejecutivos de ventas asignados'),
+('Ejecutivo Comercial', 'Gestiona sus propios clientes, oportunidades e interacciones');
+
+
 -- Insert de usuarios
 -- Usuario 1: Admin
 INSERT INTO users (
@@ -80,20 +88,6 @@ INSERT INTO users (
   4, '0933665599', 'lnarvaez', '$2b$10$hashlider9876543210'
 );
 
--- Asignación de rol a usuarios 
--- Admin
-INSERT INTO users_roles (usuario_id, rol_id) VALUES (1, 1); -- Carlos
-
--- Ejecutivo Comercial
-INSERT INTO users_roles (usuario_id, rol_id) VALUES (2, 4); -- Andrea
-
--- Gerente Comercial (rol_id = 2)
-INSERT INTO users_roles (usuario_id, rol_id)
-VALUES (3, 2);
-
--- Líder de Ventas (rol_id = 3)
-INSERT INTO users_roles (usuario_id, rol_id)
-VALUES (4, 3);
 
 -- Estructura de inserción de Módulos y Sub-Módulos
 -- Módulos principales
@@ -116,10 +110,18 @@ INSERT INTO modulos (nombre, descripcion, padre_id) VALUES
 ('Roles y Permisos', 'Control de roles', 1),
 ('Historial de Accesos', 'Log de accesos', 1);
 
+
+-- Submódulos para Reportes de Ventas
+INSERT INTO modulos (nombre, descripcion, padre_id) VALUES
+('Ventas', 'Reporte de Ventas',3),
+('Oportunidades de Ventas', 'Oportunidades de Ventas', 3),
+('Desempeño de ejecutivo', 'Desempeño de ejecutivo', 3),
+('Interacciones', 'Desempeño de ejecutivo', 3),
+('Proyectos Generados', 'Proyectos Generados', 3);
+
 -- Submódulos para Ventas
 INSERT INTO modulos (nombre, descripcion, padre_id) VALUES
 ('Clientes', 'Clientes asignados', 2),
-('Contactos', 'Contactos de clientes', 2),
 ('Oportunidades', 'Oportunidades de negocio', 2),
 ('Interacciones', 'Seguimiento comercial', 2);
 
@@ -131,3 +133,18 @@ INSERT INTO modulos (nombre, descripcion, padre_id) VALUES
 ('Interacciones', 'Reporte de interacciones', 3),
 ('Proyectos Generados', 'Proyectos desde ventas', 3);
 
+
+-- Asignación de rol a usuarios 
+-- Admin
+INSERT INTO users_roles (usuario_id, rol_id) VALUES (1, 1); -- Carlos
+
+-- Ejecutivo Comercial
+INSERT INTO users_roles (usuario_id, rol_id) VALUES (2, 4); -- Andrea
+
+-- Gerente Comercial (rol_id = 2)
+INSERT INTO users_roles (usuario_id, rol_id)
+VALUES (3, 2);
+
+-- Líder de Ventas (rol_id = 3)
+INSERT INTO users_roles (usuario_id, rol_id)
+VALUES (4, 3);

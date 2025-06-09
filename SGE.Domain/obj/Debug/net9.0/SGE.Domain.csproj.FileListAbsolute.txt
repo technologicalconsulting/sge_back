@@ -1,0 +1,12 @@
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\bin\Debug\net9.0\SGE.Domain.deps.json
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\bin\Debug\net9.0\SGE.Domain.dll
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\bin\Debug\net9.0\SGE.Domain.pdb
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.AssemblyInfoInputs.cache
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.AssemblyInfo.cs
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.sourcelink.json
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.dll
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\refint\SGE.Domain.dll
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\SGE.Domain.pdb
+C:\Users\alex.barre\Desktop\TCR\sge_back\SGE.Domain\obj\Debug\net9.0\ref\SGE.Domain.dll

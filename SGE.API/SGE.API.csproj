@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SGE.Application\SGE.Application.csproj" />
+    <ProjectReference Include="..\SGE.Infrastructure\SGE.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
