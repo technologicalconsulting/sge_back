@@ -1,12 +1,11 @@
 ﻿namespace SGE.Domain.Auth.Entities;
 
-
-    public class UserRol
+public class users_roles
     {
-        public int Id { get; set; }
-        public int UsuarioId { get; set; }
-        public int RolId { get; set; }
+        public int id { get; set; }
+        public int usuario_id { get; set; }
+        public int rol_id { get; set; }
 
-        public Users? Usuario { get; set; }
-        public Rol? Rol { get; set; }
+        public users usuario { get; set; }
+        public roles rol { get; set; }
     }

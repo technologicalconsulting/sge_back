@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB6ECF82-56D6-4C2B-AC34-C615DB9A8500}|SGE.Infrastructure\\SGE.Infrastructure.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6ECF82-56D6-4C2B-AC34-C615DB9A8500}|SGE.Infrastructure\\SGE.Infrastructure.csproj|solutionrelative:sge.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\empleados\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\empleados\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\empleados\\entities\\informacion_laboral_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\empleados\\entities\\informacion_laboral_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\empleados\\entities\\empleado_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\empleados\\entities\\empleado_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\empresa\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\empresa\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17D87A56-AC4F-419A-A25B-FEC5F656ED2F}|SGE.Application\\SGE.Application.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.application\\auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D87A56-AC4F-419A-A25B-FEC5F656ED2F}|SGE.Application\\SGE.Application.csproj|solutionrelative:sge.application\\auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB6ECF82-56D6-4C2B-AC34-C615DB9A8500}|SGE.Infrastructure\\SGE.Infrastructure.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB6ECF82-56D6-4C2B-AC34-C615DB9A8500}|SGE.Infrastructure\\SGE.Infrastructure.csproj|solutionrelative:sge.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\empresa\\entities\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\empresa\\entities\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\empresa\\entities\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\empresa\\entities\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|solutionrelative:sge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|solutionrelative:sge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\userpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,28 +55,12 @@
       "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\historialeventousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\codigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\codigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\userrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\userrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|solutionrelative:sge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|solutionrelative:sge.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37454B94-9D2D-4BC0-A11D-5F09F6F2D464}|SGE.API\\SGE.API.csproj|solutionrelative:sge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,10 +74,6 @@
       "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|c:\\users\\alex.barre\\desktop\\tcr\\sge_back\\sge.domain\\auth\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA94178F-5F5E-479C-8A09-247222C3CCAE}|SGE.Domain\\SGE.Domain.csproj|solutionrelative:sge.domain\\auth\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -69,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,6 +98,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "empleado.cs",
+              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empleados\\Entities\\empleado.cs",
+              "RelativeDocumentMoniker": "SGE.Domain\\Empleados\\Entities\\empleado.cs",
+              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empleados\\Entities\\empleado.cs",
+              "RelativeToolTip": "SGE.Domain\\Empleados\\Entities\\empleado.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:07:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "informacion_laboral_empleado.cs",
+              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empleados\\Entities\\informacion_laboral_empleado.cs",
+              "RelativeDocumentMoniker": "SGE.Domain\\Empleados\\Entities\\informacion_laboral_empleado.cs",
+              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empleados\\Entities\\informacion_laboral_empleado.cs",
+              "RelativeToolTip": "SGE.Domain\\Empleados\\Entities\\informacion_laboral_empleado.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:04:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "empleado_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empleados\\Entities\\empleado_cliente.cs",
+              "RelativeDocumentMoniker": "SGE.Domain\\Empleados\\Entities\\empleado_cliente.cs",
+              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empleados\\Entities\\empleado_cliente.cs",
+              "RelativeToolTip": "SGE.Domain\\Empleados\\Entities\\empleado_cliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:04:04.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "empresa.cs",
+              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empresa\\Entities\\empresa.cs",
+              "RelativeDocumentMoniker": "SGE.Domain\\Empresa\\Entities\\empresa.cs",
+              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empresa\\Entities\\empresa.cs",
+              "RelativeToolTip": "SGE.Domain\\Empresa\\Entities\\empresa.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:57:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "departamentos.cs",
+              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empresa\\Entities\\departamentos.cs",
+              "RelativeDocumentMoniker": "SGE.Domain\\Empresa\\Entities\\departamentos.cs",
+              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empresa\\Entities\\departamentos.cs",
+              "RelativeToolTip": "SGE.Domain\\Empresa\\Entities\\departamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:44:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cargos.cs",
+              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empresa\\Entities\\cargos.cs",
+              "RelativeDocumentMoniker": "SGE.Domain\\Empresa\\Entities\\cargos.cs",
+              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Empresa\\Entities\\cargos.cs",
+              "RelativeToolTip": "SGE.Domain\\Empresa\\Entities\\cargos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:44:26.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserPermiso.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\UserPermiso.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\UserPermiso.cs",
@@ -89,12 +183,11 @@
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\UserPermiso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:29:13.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T21:29:13.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "HistorialEventoUsuario.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\HistorialEventoUsuario.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\HistorialEventoUsuario.cs",
@@ -102,51 +195,23 @@
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\HistorialEventoUsuario.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA3wBAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:29:08.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T21:29:08.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\Empleado.cs",
-              "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\Empleado.cs",
-              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\Empleado.cs",
-              "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\Empleado.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:29:04.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CodigoVerificacion.cs",
-              "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\CodigoVerificacion.cs",
-              "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\CodigoVerificacion.cs",
-              "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\CodigoVerificacion.cs",
-              "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\CodigoVerificacion.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:28:59.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.API\\appsettings.json",
               "RelativeDocumentMoniker": "SGE.API\\appsettings.json",
               "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.API\\appsettings.json",
               "RelativeToolTip": "SGE.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T19:42:41.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:42:41.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SGE.API\\Properties\\launchSettings.json",
@@ -154,8 +219,7 @@
               "RelativeToolTip": "SGE.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T19:41:21.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:41:21.092Z"
             },
             {
               "$type": "Document",
@@ -165,27 +229,26 @@
               "RelativeDocumentMoniker": "SGE.API\\Program.cs",
               "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.API\\Program.cs",
               "RelativeToolTip": "SGE.API\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwE8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:31:43.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:31:43.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SGE.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "SGE.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA4wCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T18:03:40.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
@@ -193,12 +256,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ViewState": "AgIAACkAAAAAAAAAAAAAwDUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-09T18:03:28.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:03:28.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "UserRol.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\UserRol.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\UserRol.cs",
@@ -206,25 +268,24 @@
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\UserRol.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T13:34:27.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T13:34:27.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\User.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\User.cs",
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T13:34:22.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\Rol.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\Rol.cs",
@@ -232,12 +293,11 @@
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T13:34:17.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T13:34:17.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Permiso.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\Permiso.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\Permiso.cs",
@@ -245,12 +305,11 @@
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\Permiso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T13:34:13.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T13:34:13.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Modulo.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Domain\\Auth\\Entities\\Modulo.cs",
               "RelativeDocumentMoniker": "SGE.Domain\\Auth\\Entities\\Modulo.cs",
@@ -258,18 +317,17 @@
               "RelativeToolTip": "SGE.Domain\\Auth\\Entities\\Modulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T13:33:13.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T13:33:13.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Application\\Auth\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "SGE.Application\\Auth\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\alex.barre\\Desktop\\TCR\\sge_back\\SGE.Application\\Auth\\Services\\AuthService.cs",
               "RelativeToolTip": "SGE.Application\\Auth\\Services\\AuthService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAlwBsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T13:31:33.249Z",
               "EditorCaption": ""

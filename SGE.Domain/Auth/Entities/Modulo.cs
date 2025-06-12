@@ -1,16 +1,16 @@
 ﻿namespace SGE.Domain.Auth.Entities;
 
-
-public class Modulo
+public class modulos
     {
-        public int Id { get; set; }
-        public string Nombre { get; set; } = null!;
-        public string? Descripcion { get; set; }
-        public int? PadreId { get; set; }
-        public int Orden { get; set; } = 0;
-        public string? Icono { get; set; }
+        public int id { get; set; }
+        public string nombre { get; set; }
+        public string? descripcion { get; set; }
+        public int? padre_id { get; set; }
+        public int orden { get; set; }
+        public string? icono { get; set; }
 
-        public Modulo? Padre { get; set; }
-        public ICollection<Modulo> Submodulos { get; set; } = new List<Modulo>();
-        public ICollection<Permiso> Permisos { get; set; } = new List<Permiso>();
+        public modulos? padre { get; set; }
+        public ICollection<modulos> submodulos { get; set; }
+        public ICollection<permisos> permisos { get; set; }
+        public ICollection<modulos_activados> modulos_activados { get; set; }
     }

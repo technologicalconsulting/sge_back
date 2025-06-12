@@ -1,13 +1,14 @@
 ﻿namespace SGE.Domain.Auth.Entities;
 
-public class Permiso
-    {
-        public int Id { get; set; }
-        public int ModuloId { get; set; }
-        public string Accion { get; set; } = null!;
-        public string? Descripcion { get; set; }
 
-        public Modulo? Modulo { get; set; }
-        public ICollection<RolPermiso> Roles { get; set; } = new List<RolPermiso>();
-        public ICollection<UserPermiso> Usuarios { get; set; } = new List<UserPermiso>();
+public class permisos
+    {
+        public int id { get; set; }
+        public int modulo_id { get; set; }
+        public string accion { get; set; }
+        public string? descripcion { get; set; }
+
+        public modulos modulo { get; set; }
+        public ICollection<roles_permisos> roles_permisos { get; set; }
+        public ICollection<users_permisos> users_permisos { get; set; }
     }
